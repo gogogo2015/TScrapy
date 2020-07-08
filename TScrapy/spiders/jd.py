@@ -8,6 +8,3 @@ class JdSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
-
-
-print('d')
